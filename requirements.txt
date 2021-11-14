@@ -4,7 +4,6 @@ asyncio
 ffmpeg-python
 googletrans==4.0.0rc1
 py-tgcalls==0.8.0
-youtube_dl
 git+https://github.com/pyrogram/pyrogram@master
 youtube_search_python==1.4.6
 youtube_search
@@ -17,4 +16,3 @@ psutil
 future
 gTTS
 wget
-yt_dlp
